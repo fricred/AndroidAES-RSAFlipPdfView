@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Demo SB PDF Reader</string>
+    <string name="first">Primero</string>
+    <string name="last">Ultimo</string>
+    <string name="prepend">Prepend</string>
+    <string name="pdfRenderDescripcion">Pdf Render View</string>
+    <string name="vacio">Empty!</string>
+
+</resources>
